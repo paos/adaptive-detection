@@ -1,5 +1,5 @@
 {
-  "name": "angular-adaptive-detection",
+  "name": "angular-adaptive-detection-paos",
   "version": "0.2.1",
   "description": "This module allows you to detect device.",
   "author": "https://github.com/angular-adaptive/adaptive-detection/graphs/contributors",
@@ -13,7 +13,7 @@
   "main": "./src/angular-adaptive-detection.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular-adaptive/adaptive-detection.git"
+    "url": "https://github.com/paos/adaptive-detection.git"
   },
   "ignore": [
     "**/.*",
