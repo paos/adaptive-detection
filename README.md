@@ -1,10 +1,6 @@
 # adaptive-detection v0.2.1 [![Build Status](https://travis-ci.org/angular-adaptive/adaptive-detection.png?branch=master)](https://travis-ci.org/angular-adaptive/adaptive-detection)
 
-This module allows you to detect iOS and Android devices using user agent string
-
-### Demo
-
-Check out http://www.janantala.com/slides/how-to-build-an-open-source-angularjs-module/#/7/4
+This module allows you to detect iOS and Android devices using user agent string. Additionally you can test for Internet Explorer browser type.
 
 # Requirements
 
