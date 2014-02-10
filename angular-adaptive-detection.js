@@ -105,7 +105,21 @@ adaptive.provider('$detection', [function() {
        */
       isAndroid: function(){
         return (/(Android)/gi).test(userAgent);
+      },
+      /**
+       * @ngdoc function
+       * @name adaptive.detection.$detection#isExplorer
+       * @methodOf adaptive.detection.$detection
+       *
+       * @description
+       * Returns true if current browser is windows internet explorer.
+       *
+       * @return {bool}
+       */
+      isExplorer: function(){
+        return (/(MSIE)/gi).test(userAgent);
       }
+
     };
   };
 
