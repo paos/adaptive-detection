@@ -45,10 +45,11 @@ $detectionProvider.setUserAgent('angular browser');
 ```
 ### Public methods
 
-You can detect Android and iOS devices using:
+You can detect Android and iOS devices, or test for IE browsertype using:
 ```js
 $detection.isAndroid();
 $detection.isiOS();
+$detection.isExplorer();
 ```
     
 # Contributing
